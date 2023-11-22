@@ -14,17 +14,17 @@ const Projects = () => {
         <ProjectCard
           src="/NextWebsite.png"
           title="Modern Next.js Portfolio"
-          description="A space themed portfolio website with Next.js 13. This uses typescript, framer motion, three.js and more."
+          description="A space themed portfolio website with Next.js 14. This uses typescript, framer motion, three.js and more."
         />
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
-          description="A space themed portfolio website with Next.js 13. This uses typescript, framer motion, three.js and more."
+          description="A space themed portfolio website with Next.js 14. This uses typescript, framer motion, three.js and more."
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Spaced themed website"
-          description="A space themed portfolio website with Next.js 13. This uses typescript, framer motion, three.js and more."
+          description="A space themed portfolio website with Next.js 14. This uses typescript, framer motion, three.js and more."
         />
       </div>
     </div>
